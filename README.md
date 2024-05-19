@@ -1,5 +1,5 @@
 # Online-Book-Store
-
+- In the assets/fonts folder, unzip the file themify-icons-font 
 - Download Xampp (Includes Apache and MySQL)
 - Run Xampp, on the Apache line, go to the config file httpd.conf and change the port to 88
 - Go to PHPMyAdmin: http://localhost:88/phpmyadmin/
