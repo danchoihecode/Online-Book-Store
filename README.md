@@ -6,6 +6,6 @@
 - Create a new database named 'store'
 - Copy the command in the store.sql file and run to create the database
 - Access the user page: http://localhost:88/store/index.php?p=1
-- Access the management page: http://localhost:88/store/admin/index.php
+- Access the admin page: http://localhost:88/store/admin/index.php
   - Admin account: admin
   - Password: ad
